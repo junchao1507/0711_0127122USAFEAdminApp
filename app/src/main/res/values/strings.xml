@@ -1,0 +1,72 @@
+<resources>
+    <!--Common Strings-->
+    <string name="app_name">U-SAFE Admin App</string>
+    <string name="covid_risk_status">COVID RISK STATUS </string>
+    <string name="btn_close">Close</string>
+
+    <!--Cover, SignUp & Login Pages Strings-->
+    <string name="slogan">Monitors your safety</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="welcome_on_board">Welcome On Board!</string>
+    <string name="enter_admin_id">Enter Admin Id</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+
+    <!--U-SAFE Page Strings-->
+    <string name="menu_grid">Menu Grid</string>
+    <string name="add_lessons">Add Lessons</string>
+    <string name="verify_mesej_certs">Verify MySejahtera Certs</string>
+    <string name="reset_covid_risk_status">Reset Covid Risk Status</string>
+    <string name="view_reports">View Reports</string>
+    <string name="update_quiz_questions">Update Quiz Questions</string>
+    <string name="profile_icon">Profile Icon</string>
+
+    <!--Update Lessons Page Strings-->
+    <string name="current_week">Current Week:</string>
+    <string name="lesson_day">Lesson Day:</string>
+    <string name="lesson_date">Lesson Date:</string>
+    <string name="location">Location:</string>
+    <string name="start_time">Start Time:</string>
+    <string name="end_time">End Time:</string>
+    <string name="module_name">Module Name:</string>
+    <string name="mode">Mode:</string>
+    <string name="lecturer">Subject Lecturer:</string>
+    <string name="capacity">Capacity:</string>
+    <string name="add_lesson">Add Lesson</string>
+    <string name="add_another_lesson">Add Another Lesson</string>
+    <string name="return_home_page">Return Home Page</string>
+
+    <!--Update Quiz Page Strings-->
+    <string name="question">Question:</string>
+    <string name="answer">Answer:</string>
+    <string name="option_a">Option A:</string>
+    <string name="option_b">Option B:</string>
+    <string name="option_c">Option C:</string>
+    <string name="option_d">Option D:</string>
+    <string name="add_question">Add Question</string>
+    <string name="add_another_question">Add Another Question</string>
+
+    <!--View Lessons Pages Strings-->
+    <string name="view_lessons">Lessons</string>
+    <string name="lesson_id">Lesson ID:</string>
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="seats">Seats Available:</string>
+    <string name="select_seat">Select a Seat:</string>
+    <string name="lesson_details">Lesson Details</string>
+    <string name="subject_lecturer">Lecturer:</string>
+    <string name="booked_seat">Booked Seat:</string>
+    <string name="delete_lesson">Delete Lesson</string>
+    <string name="back">Back</string>
+
+    <!--View Report Pages-->
+    <string name="issue">Issue</string>
+    <string name="report">Reports</string>
+    <string name="report_details">Report Details</string>
+    <string name="report_id">Report ID: </string>
+    <string name="description">Description:</string>
+    <string name="location2">Location:</string>
+    <string name="userId">userId</string>
+</resources>
